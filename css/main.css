@@ -22,9 +22,10 @@ header {
 
 .logo {
   display: inline-block;
-  margin-top: -30%;
-  margin-left: 20%;
-  margin-bottom: 80%;
+  vertical-align: top;
+  margin-top : 100;
+  margin-left: 65;
+  margin-bottom: 30;
   
 }
 
@@ -43,7 +44,7 @@ body {
 .frame {  
   margin-left: 620;
   margin-bottom: -280;
-  margin-top:-80;
+  margin-top:-60;
 
 }
 
